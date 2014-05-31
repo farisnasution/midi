@@ -1,4 +1,4 @@
-(defproject midi "0.1.0"
+(defproject midi "0.2.0"
   :description "Common middleware."
   :url "https://github.com/farisnasution/midi.git"
   :license {:name "Eclipse Public License"
